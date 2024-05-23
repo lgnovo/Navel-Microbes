@@ -4,7 +4,7 @@ The Belly Button Biodiversity dataset catalogs microbes colonizing human navels.
 
 Analyses are performed using this dataset https://static.bc-edx.com/data/dl-1-2/m14/lms/starter/samples.json
 ________________________________________________________________
-## Key Features of the charts:
+Across the charts, the metadata can be updated by selecting for "Test Subject ID Number" in the upper left dropdown. Demographic info will update accordingly, as will the following charts:
 
 ### Bar Chart:
 * Updates when a new sample is selected
